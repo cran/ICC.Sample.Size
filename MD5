@@ -1,0 +1,9 @@
+f3cb36925c9a05033cb04b08583f5356 *DESCRIPTION
+d2a863625ef370ff83eceec268d2ba7e *NAMESPACE
+d02fd1ec6f9fa455dc2e9ee3331c835e *R/calculateAchievablep0.R
+44d8cda0c8094d74db7e74e8077b8945 *R/calculateIccPower.R
+5d3926399be61b893eecab660fe24104 *R/calculateIccSampleSize.R
+09af41c6d09545b2bc17bed5072728a5 *man/ICC.Sample.Size-package.Rd
+2de2ed1959edd963f64df1b9839ce12b *man/calculateAchieveablep0.Rd
+91c5f03663c7aa7eef75b7606cc37059 *man/calculateIccPower.Rd
+4a7f0c838fc5c3df176c5cf013c28f52 *man/calculateIccSampleSize.Rd
