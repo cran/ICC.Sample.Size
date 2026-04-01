@@ -22,7 +22,7 @@ calculateAchievablep0(p,k,alpha,tails,power,N)
   The desired alpha for hypothesis testing. If missing default is 0.05.
   }
   \item{tails}{
-  The number of trails for hypothesis test. If missing default is 2.
+  The number of tails for the hypothesis test. If missing default is 2.
   }
   \item{power}{
   The desired power of the hypothesis test. If missing default is 0.80.
